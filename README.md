@@ -1,6 +1,6 @@
 # Modelagem de Software - Projeto
 ## Nomes:
-• Melissa - 323114333
+• #####Melissa - 323114333
 
 • Luana - 323116556
 
@@ -14,11 +14,11 @@
  Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas.
 
 ### Requisitos Funcionais:
+• O usuario poder fazer cadastro e anexar suas habilidades e competencias profissionais;
+
 • Permitir que as empresas atualizem sobre suas vagas;
 
 • Ao escolher sua vaga o candidato terá acesso a informações específicas não só pela vaga, mas também informações sobre a empregadora;
-
-• O usuario poder anexar suas habilidades e competencias;
 
 • As empresas poderão filtrar os candidatos de acordo com seus informações apresentadas, como habilidades e localização;
 
