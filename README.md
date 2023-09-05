@@ -29,6 +29,8 @@
 • Venda de materiais de instrução para o mercado de trabalho;
 
 ### Requisitos Não-funcionais:
+• Sistema de backup dos dados
+
 • Segurança de dois fatores;
 
 • Atualização de no maximo 3 minutos das informações e disponibilidade das vagas;
