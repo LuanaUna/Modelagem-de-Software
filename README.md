@@ -10,37 +10,37 @@
 
 ## Projeto: FIND JOBS
 ### Descrição
- O nosso aplicativo tem a função de auxiliar cidadãos a encontrar a vaga ideal para o mercado de trabalho. 
- Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas.
+ O nosso aplicativo tem a função de auxiliar os cidadãos a encontrar sua vaga ideal para o mercado de trabalho.
+ Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas, além da disponibilização de materiais para auxiliar na obtenção das vagas.
 
 ### Requisitos Funcionais:
-• O usuario poder fazer cadastro e anexar suas habilidades e competencias profissionais;
+• O usuário ao fazer o cadastro e anexar suas habilidades, competências profissionais e localização;
 
-• Permitir que as empresas atualizem sobre suas vagas;
-
-• Ao escolher sua vaga o candidato terá acesso a informações específicas não só pela vaga, mas também informações sobre a empregadora;
+• Permitir que as empresas adicionem e atualizem sobre suas vagas de emprego;
 
 • As empresas poderão filtrar os candidatos de acordo com seus informações apresentadas, como habilidades e localização;
 
 • Os candidatos poderão filtrar as vagas de acordo com seus interesses;
 
+• Ao escolher a vaga o candidato terá acesso a informações específicas não só da vaga, mas também informações sobre a empregadora;
+
 • Há também um sistema de reputação de cada empresa, contendo comentários sobre a vagas e avaliação dos associados;
 
-• Venda de materiais de instrução para o mercado de trabalho.
+• Oferecer serviço pago de fornecimento de materiais de instrução para entrada no mercado de trabalho.
 
 ### Requisitos Não-funcionais:
-• Sistema de backup dos dados;
+• Informações dos usuários criptografadas; 
 
 • Segurança de dois fatores;
 
-• Atualização de no maximo 3 minutos das informações e disponibilidade das vagas;
+• Sistema de backup dos dados;
 
-• Atualização de no maximo 3 minutos das informações dos usuários;
+• Atualização de no maximo 10 minutos das informações e disponibilidade das vagas;
 
-• Informações dos usuários criptografadas; 
+• Atualização de no maximo 5 minutos das informações dos usuários;
 
-• Interface de facil entendimento;
+• Interface de fácil entendimento;
 
-• Personalazição de interface de perfis.
+• Personalização da interface de perfis.
 
 
