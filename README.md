@@ -14,17 +14,19 @@
  Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas, além da disponibilização de materiais para auxiliar na obtenção das vagas.
 
 ### Requisitos Funcionais:
-• O usuário ao fazer o cadastro e anexar suas habilidades, competências profissionais e localização;
+• O usuário deve fazer cadastro. Após o cadastro ele é capaz de anexar suas habilidades, competências profissionais e localização. As mesmas podem ser alteradas a qualquer momento;
 
-• Permitir que as empresas adicionem e atualizem sobre suas vagas de emprego;
+• As empresas devem fazer cadastro e criar um perfil com informações sobre a mesma;
 
-• As empresas poderão filtrar os candidatos de acordo com seus informações apresentadas, como habilidades e localização;
+• Permitir que as empresas adicionem suas vagas de emprego disponíveis e as informações relacionadas as mesmas. Esses dados podem ser editados posteriormente e a vaga removida do aplicativo caso necessário.
+
+• As empresas poderão filtrar os candidatos de acordo com suas informações apresentadas, como habilidades e localização;
 
 • Os candidatos poderão filtrar as vagas de acordo com seus interesses;
 
 • Ao escolher a vaga o candidato terá acesso a informações específicas não só da vaga, mas também informações sobre a empregadora;
 
-• Há também um sistema de reputação de cada empresa, contendo comentários sobre a vagas e avaliação dos associados;
+• Há também um sistema de reputação de cada empresa, contendo comentários sobre as vagas e avaliação dos associados;
 
 • Oferecer serviço pago de fornecimento de materiais de instrução para entrada no mercado de trabalho.
 
