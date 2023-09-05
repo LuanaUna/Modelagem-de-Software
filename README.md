@@ -1,11 +1,11 @@
 # Modelagem-de-Software
-# FindJobs
 # Nomes:
 • Melissa - 323114333
 • Luana - 323116556
 • Ana - 323129143
 • Guilherme - 323113959
 
+FIND JOBS
 # Descrição
  O nosso aplicativo tem a função de auxiliar cidadãos a encontrar a vaga ideal para o mercado de trabalho. 
  Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas.
