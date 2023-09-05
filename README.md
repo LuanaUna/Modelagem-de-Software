@@ -14,7 +14,7 @@
  Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas, além da disponibilização de materiais para auxiliar na obtenção das vagas.
 
 ### Requisitos Funcionais:
-• O usuário deve fazer cadastro. Após o cadastro ele é capaz de anexar suas habilidades, competências profissionais e localização. As mesmas podem ser alteradas a qualquer momento;
+• O usuário deve fazer cadastro. Após o cadastro é possível anexar ao perfil do mesmo as suas habilidades, competências profissionais e localização. As mesmas podem ser alteradas a qualquer momento;
 
 • As empresas devem fazer cadastro e criar um perfil com informações sobre a mesma;
 
