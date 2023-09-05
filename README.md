@@ -21,6 +21,8 @@
 
 • Os candidatos poderão filtrar as vagas de acordo com seus interesses;
 
+• Venda de materiais de instrução para o mercado de trabalho;
+
 • Há também um sistema de reputação de cada empresa, contendo comentários sobre a vagas e avaliação dos associados.
 
 ### Requisitos Não-funcionais:
