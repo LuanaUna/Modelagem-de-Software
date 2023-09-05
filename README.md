@@ -1,12 +1,12 @@
 # Modelagem de Software - Projeto
 ## Nomes:
-##### • Melissa - 323114333
+• **Melissa** - 323114333
 
-• Luana - 323116556
+• **Luana** - 323116556
 
-• Ana - 323129143
+• **Ana** - 323129143
 
-• Guilherme - 323113959
+• **Guilherme** - 323113959
 
 ## Projeto: FIND JOBS
 ### Descrição
