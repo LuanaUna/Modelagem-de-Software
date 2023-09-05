@@ -1,6 +1,6 @@
 # Modelagem de Software - Projeto
 ## Nomes:
-• ##### Melissa - 323114333
+##### • Melissa - 323114333
 
 • Luana - 323116556
 
