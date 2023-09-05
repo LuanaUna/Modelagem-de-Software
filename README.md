@@ -26,7 +26,7 @@
 
 • Há também um sistema de reputação de cada empresa, contendo comentários sobre a vagas e avaliação dos associados.
 
-• Venda de materiais de instrução para o mercado de trabalho;
+• Venda de materiais de instrução para o mercado de trabalho.
 
 ### Requisitos Não-funcionais:
 • Sistema de backup dos dados;
@@ -41,6 +41,6 @@
 
 • Interface de facil entendimento;
 
-• Personalazição de interface de perfis
+• Personalazição de interface de perfis.
 
 
