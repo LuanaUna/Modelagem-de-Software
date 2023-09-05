@@ -29,7 +29,7 @@
 • Venda de materiais de instrução para o mercado de trabalho;
 
 ### Requisitos Não-funcionais:
-• Sistema de backup dos dados
+• Sistema de backup dos dados;
 
 • Segurança de dois fatores;
 
