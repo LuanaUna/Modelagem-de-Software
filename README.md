@@ -22,6 +22,15 @@ FIND JOBS
 • Os candidatos poderão filtrar as vagas de acordo com seus interesses;
 
 • Há também um sistema de reputação de cada empresa, contendo comentários sobre a vagas e avaliação dos associados.
+
 # Requisitos Não-funcionais:
+• Segurança de dois fatores;
+
+• Atualização de no maximo 3 minutos das informações e disponibilidade das vagas;
+
+• Atualização de no maximo 3 minutos das informações dos usuários;
+
+• Informações dos usuários criptografadas 
+•
 
 
