@@ -30,7 +30,10 @@
 
 • Atualização de no maximo 3 minutos das informações dos usuários;
 
-• Informações dos usuários criptografadas 
-•
+• Informações dos usuários criptografadas; 
+
+• Interface de facil entendimento;
+
+• Personalazição de interface de perfis
 
 
