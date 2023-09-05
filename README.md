@@ -5,9 +5,11 @@
 • Luana - 323116556
 • Ana - 323129143
 • Guilherme - 323113959
+
 # Descrição
  O nosso aplicativo tem a função de auxiliar cidadãos a encontrar a vaga ideal para o mercado de trabalho. 
  Nele você terá acesso as diversas vagas, seja para órgão público ou empresas privadas.
+
 # Requisitos Funcionais:
 • Permitir que as empresas atualizem sobre suas vagas;
 • Ao escolher sua vaga o candidato terá acesso a informações específicas não só pela vaga, mas também informações sobre a empregadora;
