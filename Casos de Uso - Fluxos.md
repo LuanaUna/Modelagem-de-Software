@@ -18,7 +18,7 @@ Um dos dados inseridos pelo usuário para o cadastro é inválido.
 #### Fluxo principal:
 1. O usuário(representante da empresa) seleciona a opção de cadastrar como empresa;
 
-3. O sistema disponibiliza uma página requisitando as informações necesárias para o cadastro (e-mail, nome, senha, idade, NIRE da empresa);
+3. O sistema disponibiliza uma página requisitando as informações necesárias para o cadastro (e-mail, senha, nome da empresa, NIRE da empresa);
 
 4. O usuário preenche as informações;
 
